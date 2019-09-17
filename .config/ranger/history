@@ -1,0 +1,16 @@
+cd ~
+set show_hidden!
+set hidden_filter
+search config
+search kitt
+search kitty
+vim kitty.conf
+touch kitty.conf
+set show_hidden
+
+set show_hidden true
+set show_hidden=true
+search Xresou
+rename home
+open_with 
+search deep
